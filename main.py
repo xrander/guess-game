@@ -52,4 +52,3 @@ def comp_guess_number(x):
     
     print(f"The computer have guess the number {comp_guess} correctly after {trials} trials")
 
-comp_guess_number(1000)
